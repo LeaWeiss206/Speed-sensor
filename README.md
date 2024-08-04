@@ -32,4 +32,5 @@ This project uses an ESP32 and rotary encoder to monitor vehicle speed. It calcu
   - `handleEncoder()`: ISR to calculate RPS.
   - `setup()`: Initializes serial communication and calculates RPS limits.
   - `loop()`: Checks speed and controls the LED.
-
+## Wokwi Simulation
+You can view and interact with the simulation of this project on Wokwi: [Temperature Alert System Simulation](https://wokwi.com/projects/404388578889858049)
